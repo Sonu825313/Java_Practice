@@ -1,5 +1,9 @@
-                      // Polymorphism = poly means many and morphism means forms. 
+                      // Polymorphism is a greek words whose meaning is same object having different behaviour. 
+                      // Polymorphism = poly means many and morphism means forms. it means one things for several form.
+
+
                          // there are 2 types : function overloading(Compile time) and function overriding(runtime) .
+
                         // function overloading: Method Overloading is a Compile time polymorphism. In method overloading, 
                         //  more than one method shares the same method name with a different signature in the class. In method overloading, 
                         // the return type can or can not be the same, but we have to change the parameter because, in java,

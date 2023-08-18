@@ -1,3 +1,11 @@
+           
+           /*     Constructor has same name as a class name.
+                It is same like a method.
+                It returns nothing.
+                It Call automatically when object is created.
+                It is used to initialize the instance variables of a class.
+                You can't make a new object without invoking a constructor.
+                Every class have a default constructor by default. */
 
                          // Non parameterized Constructor
 class Student{

@@ -1,4 +1,4 @@
-/*
+
                          // Non parameterized Constructor
 class Student{
     String name;
@@ -23,8 +23,8 @@ public class Constructor {
         s1.studentInfo();
     }
 }
-*/
-/*
+
+
                          // Parameterized Constructor
 class Student{
     String name;
@@ -47,7 +47,7 @@ public class Constructor {
         s1.studentInfo();
     }
 }
-*/
+
 
                 // Copy Constructor
 class Student{
@@ -58,7 +58,7 @@ class Student{
         System.out.println(this.name);
         System.out.println(this.age);
     }
-       //  parameterized constructor
+       //  Copy constructor
     Student(Student s2){
        this.name = s2.name;
        this.age = s2.age;
